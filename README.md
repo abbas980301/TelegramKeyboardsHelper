@@ -4,6 +4,8 @@
 ## Example 
 
 ```php
+require_once 'vendor/autoload.php';
+
 $button = new InlineKeyboardButton();
 $button->text = 'abbas';
 $button->callback_data = 'Test';
