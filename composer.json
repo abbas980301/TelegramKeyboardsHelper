@@ -1,0 +1,16 @@
+{
+    "name": "shakibonline/telegram-keyboards-helper",
+    "description": "Simple library for telegram keyboards Bot API",
+    "type": "library",
+    "require": {
+        "php": ">5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abbas Shakiba",
+            "email": "shakiba_9@yahoo.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
