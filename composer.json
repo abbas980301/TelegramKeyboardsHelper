@@ -12,5 +12,10 @@
             "email": "shakiba_9@yahoo.com"
         }
     ],
-    "minimum-stability": "alpha"
+    "minimum-stability": "alpha",
+    "autoload" : {
+        "psr-0": {
+            "shakibonline\\": "src/"
+        }
+    }
 }

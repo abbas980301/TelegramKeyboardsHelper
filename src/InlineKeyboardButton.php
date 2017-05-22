@@ -1,8 +1,6 @@
 <?php
 
-namespace app\components\telegram;
-
-use Symfony\Component\Translation\Exception\InvalidArgumentException;
+namespace shakibonline;
 
 class InlineKeyboardButton
 {
