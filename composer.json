@@ -15,7 +15,7 @@
     "minimum-stability": "alpha",
     "autoload" : {
         "psr-0": {
-            "shakibonline\\": "src/"
+            "shakibonline": "src/"
         }
     }
 }
