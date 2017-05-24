@@ -1,6 +1,6 @@
 <?php
 
-namespace shakibonline;
+namespace Shakibonline;
 
 class ReplyKeyboardRemove
 {

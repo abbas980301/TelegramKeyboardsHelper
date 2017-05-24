@@ -3,7 +3,7 @@
     "description": "Simple library for telegram keyboards Bot API",
     "type": "library",
     "require": {
-        "php": ">5.3"
+        "php": ">=5.4.0"
     },
     "license": "MIT",
     "authors": [
@@ -13,9 +13,9 @@
         }
     ],
     "minimum-stability": "alpha",
-    "autoload" : {
-        "psr-0": {
-            "shakibonline": "src/"
+    "autoload": {
+        "psr-4": {
+            "Shakibonline\\": "src/"
         }
     }
 }
